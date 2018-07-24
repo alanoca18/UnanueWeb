@@ -504,8 +504,13 @@ jsFileLocation:"//hdosdemayo.gob.pe/portal/wp-content/plugins/revslider/public/a
 			</a>
 		</div>
 		<div class="w-image ">
-			<a href="localhost/htdocs/UnanueWeb/Contactos.php" rel="">
-				<img width="800" height="399" src="http://bibhut.hospitaltacna.gob.pe/imagenes/boton%20contactos.PNG" class="attachment-large size-large" alt=""
+			<a href="http://localhost/UnanueWeb/Contactos.php" rel="">
+				<img width="800" height="399" src="http://bibhut.hospitaltacna.gob.pe/imagenes/boton%20contactos.PNG" class="attachment-large size-large" alt="">
+			</a>
+		</div>
+		<div class="w-image ">
+			<a href="http://localhost/UnanueWeb/Contactos.php" rel="">
+				<img width="800" height="399" src="http://bibhut.hospitaltacna.gob.pe/imagenes/estadistica.PNG" class="attachment-large size-large" alt="">
 			</a>
 		</div>
 		<h2 style="text-align: center" class="vc_custom_heading">

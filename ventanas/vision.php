@@ -106,8 +106,8 @@ var veritas = {"comment":{"method":"add","request_method":"post","parent":".comm
 <meta property="og:locale" content="es_ES" />
 <meta name="twitter:image" content="http://hdosdemayo.gob.pe/portal/wp-content/uploads/2016/09/fav-300x300.png" />
 <meta name="twitter:card" content="summary" />
-<link rel="icon" href="imagen/logoHHUT.png" sizes="32x32" />
-<link rel="icon" href="imagen/logoHHUT.png" sizes="192x192" />
+<link rel="icon" href="../imagen/logoHHUT.png" sizes="32x32" />
+<link rel="icon" href="../imagen/logoHHUT.png" sizes="192x192" />
 <link rel="apple-touch-icon-precomposed" href="http://hdosdemayo.gob.pe/portal/wp-content/uploads/2016/09/fav-300x300.png" />
 <meta name="msapplication-TileImage" content="http://hdosdemayo.gob.pe/portal/wp-content/uploads/2016/09/fav-300x300.png" />
 			<style type="text/css" id="wp-custom-css">
@@ -140,8 +140,8 @@ Para saber cÃ³mo funciona, ve a http://wp.me/PEmnE-Bt
 					<div class="l-subheader-cell at_left">
 						<div class="w-img ush_image_1">
 							
-							<a class="w-img-h" href="">
-								<img class="for_default" src="imagen/logo5.png" width="474" height="50" alt="logo-hhut" />
+							<a class="w-img-h" href="../final.php">
+								<img class="for_default" src="../imagen/logo5.png" width="474" height="50" alt="logo-hhut" />
 							</a>
 								
 						</div>
@@ -159,7 +159,7 @@ Para saber cÃ³mo funciona, ve a http://wp.me/PEmnE-Bt
 
 			<div class="l-subheader at_bottom width_full">
 			<div class="l-subheader-h"><div class="l-subheader-cell at_left"></div><div class="l-subheader-cell at_center"><nav class="w-nav type_desktop animation_opacity height_full ush_menu_1" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement"><a class="w-nav-control" href="javascript:void(0);"></a><ul class="w-nav-list level_1 hover_none hidden"><li id="menu-item-5017" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home w-nav-item level_1 menu-item-5017"><a class="w-nav-anchor level_1"  href="http://hdosdemayo.gob.pe/portal/"><span class="w-nav-title">Inicio</span><span class="w-nav-arrow"></span></a></li>
-<li id="menu-item-5018" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children w-nav-item level_1 menu-item-5018"><a class="w-nav-anchor level_1"  href="ventanas/vision.php"><span class="w-nav-title">Vision</span><span class="w-nav-arrow"></span></a>
+<li id="menu-item-5018" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children w-nav-item level_1 menu-item-5018"><a class="w-nav-anchor level_1"  href="http://hdosdemayo.gob.pe/portal/mision/"><span class="w-nav-title">Vision</span><span class="w-nav-arrow"></span></a>
 </li>
 <li id="menu-item-5019" class="menu-item menu-item-type-custom menu-item-object-custom w-nav-item level_1 menu-item-5019"><a class="w-nav-anchor level_1"  href="http://hdosdemayo.gob.pe/portal/normatividad/"><span class="w-nav-title">Mision</span><span class="w-nav-arrow"></span></a></li>
 <li id="menu-item-5020" class="menu-item menu-item-type-custom menu-item-object-custom w-nav-item level_1 menu-item-5020"><a class="w-nav-anchor level_1"  href="http://hdosdemayo.gob.pe/portal/instrumentos-de-gestion/"><span class="w-nav-title">Reseña</span><span class="w-nav-arrow"></span></a></li>
@@ -167,427 +167,55 @@ Para saber cÃ³mo funciona, ve a http://wp.me/PEmnE-Bt
 <li id="menu-item-5369" class="menu-item menu-item-type-custom menu-item-object-custom w-nav-item level_1 menu-item-5369"><a class="w-nav-anchor level_1"  href="http://hdosdemayo.gob.pe/portal/noticias"><span class="w-nav-title">Objetivos</span><span class="w-nav-arrow"></span></a></li>
 <li id="menu-item-5023" class="menu-item menu-item-type-custom menu-item-object-custom w-nav-item level_1 menu-item-5023"><a class="w-nav-anchor level_1"  href="http://hdosdemayo.gob.pe/portal/contacto"><span class="w-nav-title">Organigrama</span><span class="w-nav-arrow"></span></a></li>
 </ul><div class="w-nav-options hidden" onclick='return {&quot;mobileWidth&quot;:900,&quot;mobileBehavior&quot;:0}'></div></nav><div class="w-search layout_modern ush_search_1"><div class="w-search-form"><form class="w-search-form-h" autocomplete="off" action="http://hdosdemayo.gob.pe/portal/" method="get"><div class="w-search-form-field"><input type="text" name="s" id="us_form_search_s" placeholder="Buscar" /><span class="w-form-row-field-bar"></span></div><div class="w-search-close"></div></form></div><a class="w-search-open" href="javascript:void(0);"></a></div></div><div class="l-subheader-cell at_right"></div></div></div><div class="l-subheader for_hidden hidden"></div></header>
+<!-- /INICIO DEL FORMULARIO -->
+
+
+
+	
+<!-- MAIN -->
+<div class="l-main">
+	<div class="l-main-h i-cf">
+
+		<main class="l-content" itemprop="mainContentOfPage">
+
+			
+			<section class="l-section wpb_row height_medium"><div class="l-section-h i-cf"><div class="g-cols offset_small"><div class="vc_col-sm-3 wpb_column vc_column_container links"><div class="vc_column-inner"><div class="vc_wp_custommenu wpb_content_element"><div class="widget widget_nav_menu"><div class="menu-resoluciones-emitidas-container"><ul id="menu-resoluciones-emitidas" class="menu"><li id="menu-item-11995" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11995"><a href="http://wp.me/P81Ee9-38c">Año 2018</a></li>
+<li id="menu-item-12028" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12028"><a href="http://hdosdemayo.gob.pe/portal/resoluciones-directorales-2017-_/">Año 2017</a></li>
+<li id="menu-item-7807" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7807"><a href="http://hdosdemayo.gob.pe/portal/resoluciones-hndm-2016/">Año 2016</a></li>
+<li id="menu-item-7871" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7871"><a href="http://hdosdemayo.gob.pe/portal/resoluciones-directorales-2015-hndm/">Año 2015</a></li>
+<li id="menu-item-9716" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9716"><a href="http://hdosdemayo.gob.pe/portal/resoluciones-directorales-2014-hndm/">Año 2014</a></li>
+<li id="menu-item-9717" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9717"><a href="http://hdosdemayo.gob.pe/portal/resoluciones-directorales-2013-hndm/">Año 2013</a></li>
+<li id="menu-item-9718" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9718"><a href="http://hdosdemayo.gob.pe/portal/resoluciones-directorales-2012-hndm/">Año 2012</a></li>
+</ul></div></div></div></div></div><div class="vc_col-sm-9 wpb_column vc_column_container links"><div class="vc_column-inner"><div class="w-image "><img  src="../imagen/vision2.png" width="924" height="286" class="attachment-large size-large" alt=""  sizes="(max-width: 924px) 100vw, 924px" /></div><div class="wpb_text_column "><div class="wpb_wrapper"><p>Ser un hospital líder de referencia Nivel III-1 debidamente acreditado nacional e internacionalmente, brindando atención especializada al más alto nivel con personal calificado y equipamiento con tecnología de punta a la población regional, macro regional sur e internacional con calidad, calidez, respeto y eficiencia.</p>
+
+</p></div> </div> </div></div></div></div></section><section class="l-section wpb_row height_medium"><div class="l-section-h i-cf"><div class="g-cols offset_small"><div class="vc_col-sm-12 wpb_column vc_column_container"><div class="vc_column-inner"><div class="wpb_text_column "><div class="wpb_wrapper"><p>
+</p></div> </div> </div></div></div></div></section>
+
+			
+		</main>
+
 		
-	<!-- MAIN -->
-<div class="l-main">
-	<div class="l-main-h i-cf">
-
-		<main class="l-content" itemprop="mainContentOfPage">
-
-			
-			<section class="l-section wpb_row height_auto width_full"><div class="l-section-h i-cf"><div class="g-cols offset_small"><div class="vc_col-sm-12 wpb_column vc_column_container"><div class="vc_column-inner"><div class="wpb_revslider_element wpb_content_element"><link href="http://fonts.googleapis.com/css?family=ABeeZee%3A400" rel="stylesheet" property="stylesheet" type="text/css" media="all" />
-<div id="rev_slider_1_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container" style="margin:0px auto;background-color:transparent;padding:0px;margin-top:0px;margin-bottom:0px;">
-<!-- START REVOLUTION SLIDER 5.2.6 auto mode -->
-	<div id="rev_slider_1_1" class="rev_slider fullwidthabanner" style="display:none;" data-version="5.2.6">
-<ul>	<!-- SLIDE  -->
-	<li data-index="rs-20" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-thumb="http://hdosdemayo.gob.pe/portal/wp-content/uploads/2018/03/PORTADA-TWITTER-2018-100x50.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
-		<!-- MAIN IMAGE -->
-		<img src="img/descarga.jpg"  alt="" title="PORTADA TWITTER 2018"  width="1500" height="500" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
-		<!-- LAYERS -->
-	</li>
-	<!-- SLIDE  -->
-	<li data-index="rs-7" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-thumb="http://hdosdemayo.gob.pe/portal/wp-content/uploads/2016/10/slide_1-100x50.jpg"  data-delay="4900"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
-		<!-- MAIN IMAGE -->
-		<img src="http://hospitaltacna.gob.pe/wp-content/uploads/2014/08/unnamed.jpg"  alt="" title="Hospital Dos de Mayo"  width="1600" height="600" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
-		<!-- LAYERS -->
-
-		<!-- LAYER NR. 1 -->
-		<div class="tp-caption   tp-resizeme" 
-			 id="slide-7-layer-1" 
-			 data-x="666" 
-			 data-y="498" 
-						data-width="['auto']"
-			data-height="['auto']"
-			data-transform_idle="o:1;"
- 
-			 data-transform_in="opacity:0;s:1000;e:Power2.easeInOut;" 
-			 data-transform_out="opacity:0;s:480;" 
-			data-start="729.84375" 
-			data-splitin="none" 
-			data-splitout="none" 
-			data-responsive_offset="on" 
-
-			 data-end="3019.84375" 
-
-			style="z-index: 5; white-space: nowrap; font-size: 60px; line-height: 22px; font-weight: 400; color: rgba(255, 255, 255, 1.00);font-family:ABeeZee;">143 Años  </div>
-
-		<!-- LAYER NR. 2 -->
-		<div class="tp-caption   tp-resizeme" 
-			 id="slide-7-layer-2" 
-			 data-x="487" 
-			 data-y="492" 
-						data-width="['auto']"
-			data-height="['auto']"
-			data-transform_idle="o:1;"
- 
-			 data-transform_in="opacity:0;s:1110;e:Power2.easeInOut;" 
-			 data-transform_out="opacity:0;s:440;" 
-			data-start="2740" 
-			data-splitin="none" 
-			data-splitout="none" 
-			data-responsive_offset="on" 
-
-			 data-end="4430" 
-
-			style="z-index: 6; white-space: nowrap; font-size: 60px; line-height: 22px; font-weight: 400; color: rgba(255, 255, 255, 1.00);">De Historia y Tradición </div>
-	</li>
-	<!-- SLIDE  -->
-	<li data-index="rs-16" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-thumb="http://hdosdemayo.gob.pe/portal/wp-content/uploads/2018/01/IMG_9323-editada-100x50.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
-		<!-- MAIN IMAGE -->
-		<img src="http://hdosdemayo.gob.pe/portal/wp-content/uploads/2018/01/IMG_9323-editada.jpg"  alt="" title="IMG_9323 editada"  width="3990" height="1496" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
-		<!-- LAYERS -->
-	</li>
-</ul>
-<script>var htmlDiv = document.getElementById("rs-plugin-settings-inline-css"); var htmlDivCss="";
-						if(htmlDiv) {
-							htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
-						}else{
-							var htmlDiv = document.createElement("div");
-							htmlDiv.innerHTML = "<style>" + htmlDivCss + "</style>";
-							document.getElementsByTagName("head")[0].appendChild(htmlDiv.childNodes[0]);
-						}
-					</script>
-<div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>	</div>
-<script>var htmlDiv = document.getElementById("rs-plugin-settings-inline-css"); var htmlDivCss="";
-				if(htmlDiv) {
-					htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
-				}else{
-					var htmlDiv = document.createElement("div");
-					htmlDiv.innerHTML = "<style>" + htmlDivCss + "</style>";
-					document.getElementsByTagName("head")[0].appendChild(htmlDiv.childNodes[0]);
-				}
-			</script>
-		<script type="text/javascript">
-						/******************************************
-				-	PREPARE PLACEHOLDER FOR SLIDER	-
-			******************************************/
-
-			var setREVStartSize=function(){
-				try{var e=new Object,i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;
-					e.c = jQuery('#rev_slider_1_1');
-					e.gridwidth = [1600];
-					e.gridheight = [550];
-							
-					e.sliderLayout = "auto";
-					if(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})
-					
-				}catch(d){console.log("Failure at Presize of Slider:"+d)}
-			};
-			
-			setREVStartSize();
-			
-						var tpj=jQuery;
-			
-			var revapi1;
-			tpj(document).ready(function() {
-				if(tpj("#rev_slider_1_1").revolution == undefined){
-					revslider_showDoubleJqueryError("#rev_slider_1_1");
-				}else{
-					revapi1 = tpj("#rev_slider_1_1").show().revolution({
-						sliderType:"standard",
-jsFileLocation:"//hdosdemayo.gob.pe/portal/wp-content/plugins/revslider/public/assets/js/",
-						sliderLayout:"auto",
-						dottedOverlay:"none",
-						delay:3000,
-						navigation: {
-							keyboardNavigation:"off",
-							keyboard_direction: "horizontal",
-							mouseScrollNavigation:"off",
- 							mouseScrollReverse:"default",
-							onHoverStop:"off",
-							arrows: {
-								style:"hesperiden",
-								enable:true,
-								hide_onmobile:false,
-								hide_onleave:false,
-								tmp:'',
-								left: {
-									h_align:"left",
-									v_align:"center",
-									h_offset:20,
-									v_offset:0
-								},
-								right: {
-									h_align:"right",
-									v_align:"center",
-									h_offset:20,
-									v_offset:0
-								}
-							}
-						},
-						visibilityLevels:[1240,1024,778,480],
-						gridwidth:1600,
-						gridheight:550,
-						lazyType:"none",
-						shadow:0,
-						spinner:"spinner0",
-						stopLoop:"off",
-						stopAfterLoops:-1,
-						stopAtSlide:-1,
-						shuffle:"off",
-						autoHeight:"off",
-						disableProgressBar:"on",
-						hideThumbsOnMobile:"off",
-						hideSliderAtLimit:0,
-						hideCaptionAtLimit:0,
-						hideAllCaptionAtLilmit:0,
-						debugMode:false,
-						fallbacks: {
-							simplifyAll:"off",
-							nextSlideOnWindowFocus:"off",
-							disableFocusListener:false,
-						}
-					});
-				}
-			});	/*ready*/
-		</script>
-		<script>
-					var htmlDivCss = unescape(".hesperiden.tparrows%20%7B%0A%09cursor%3Apointer%3B%0A%09background%3Argba%280%2C0%2C0%2C0.5%29%3B%0A%09width%3A40px%3B%0A%09height%3A40px%3B%0A%09position%3Aabsolute%3B%0A%09display%3Ablock%3B%0A%09z-index%3A100%3B%0A%20%20%20%20border-radius%3A%2050%25%3B%0A%7D%0A.hesperiden.tparrows%3Ahover%20%7B%0A%09background%3Argba%280%2C%200%2C%200%2C%201%29%3B%0A%7D%0A.hesperiden.tparrows%3Abefore%20%7B%0A%09font-family%3A%20%22revicons%22%3B%0A%09font-size%3A20px%3B%0A%09color%3Argb%28255%2C%20255%2C%20255%29%3B%0A%09display%3Ablock%3B%0A%09line-height%3A%2040px%3B%0A%09text-align%3A%20center%3B%0A%7D%0A.hesperiden.tparrows.tp-leftarrow%3Abefore%20%7B%0A%09content%3A%20%22%5Ce82c%22%3B%0A%20%20%20%20margin-left%3A-3px%3B%0A%7D%0A.hesperiden.tparrows.tp-rightarrow%3Abefore%20%7B%0A%09content%3A%20%22%5Ce82d%22%3B%0A%20%20%20%20margin-right%3A-3px%3B%0A%7D%0A");
-					var htmlDiv = document.getElementById('rs-plugin-settings-inline-css');
-					if(htmlDiv) {
-						htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
-					}
-					else{
-						var htmlDiv = document.createElement('div');
-						htmlDiv.innerHTML = '<style>' + htmlDivCss + '</style>';
-						document.getElementsByTagName('head')[0].appendChild(htmlDiv.childNodes[0]);
-					}
-				  </script>
-				</div><!-- END REVOLUTION SLIDER --></div></div></div></div></div></section><section class="l-section wpb_row height_auto color_custom" style="background-color: #e5a015;margin-bottom: -20px !important;"><div class="l-section-h i-cf"><div class="g-cols offset_small"><div class="vc_col-sm-12 wpb_column vc_column_container"><div class="vc_column-inner"><div class="g-cols wpb_row offset_small vc_inner menu2  vc_custom_1485268225294"><div class="vc_col-sm-2 wpb_column vc_column_container"><div class="vc_column-inner"><div class="w-iconbox iconpos_top size_small style_default color_custom iconos"><a class="w-iconbox-link" href="http://hdosdemayo.gob.pe/portal/informacion-para-el-paciente/"><div class="w-iconbox-icon" style="color: #ffffff;"><i class="fa fa-info-circle"></i></div><h4 class="w-iconbox-title">Información general</h4></a></div></div></div><div class="vc_col-sm-2 wpb_column vc_column_container"><div class="vc_column-inner"><div class="w-iconbox iconpos_top size_small style_default color_custom"><a class="w-iconbox-link" href="http://hdosdemayo.gob.pe/portal/gestion-de-la-calidad/" target="_blank"><div class="w-iconbox-icon" style="color: #ffffff;"><i class="fa fa-hospital-o"></i></div><h4 class="w-iconbox-title">Biblioteca Virtual</h4></a></div></div></div><div class="vc_col-sm-2 wpb_column vc_column_container"><div class="vc_column-inner"><div class="w-iconbox iconpos_top size_small style_default color_custom icontype_img"><a class="w-iconbox-link" href="https://joom.ag/rCVL" target="_blank"><div class="w-iconbox-icon" style="color: #ffffff;"><img src="http://hdosdemayo.gob.pe/portal/wp-content/uploads/2017/03/Newsletter.png" width="200" height="200" alt="Boletín Institucional"></div><h4 class="w-iconbox-title">Boletín Institucional</h4></a></div></div></div><div class="vc_col-sm-2 wpb_column vc_column_container"><div class="vc_column-inner"><div class="w-iconbox iconpos_top size_small style_default color_custom"><a class="w-iconbox-link" href="http://cuerpomedico.hdosdemayo.gob.pe/index.php/revistamedicacarrionica" target="_blank"><div class="w-iconbox-icon" style="color: #ffffff;"><i class="fa fa-book"></i></div><h4 class="w-iconbox-title">Revista Medica</h4></a></div></div></div></div></div></div></div></div></section><section class="l-section wpb_row height_medium" style="margin-bottom: -50px !important;"><div class="l-section-h i-cf"><div class="g-cols offset_small"><div class="vc_col-sm-3 wpb_column vc_column_container"><div class="vc_column-inner"><h3 style="font-size: 20px;color: #ffffff;line-height: 2;text-align: center" class="vc_custom_heading luis vc_custom_1488545634258">Campañas</h3><div class="w-blog layout_classic cols_1" itemscope="itemscope" itemtype="https://schema.org/Blog"><div class="w-blog-list">
-
-<article class="w-blog-post campanas post-12829 post type-post status-publish format-standard has-post-thumbnail hentry category-campanas tag-tiroides" data-id="12829" data-categories="campanas">
-	<div class="w-blog-post-h">
-		<a href="http://hdosdemayo.gob.pe/portal/campana-de-evaluacion-tiroidea-en-el-dos-de-mayo/">
-			<div class="w-blog-post-preview">
-				<img width="1024" height="683" src="http://hdosdemayo.gob.pe/portal/wp-content/uploads/2018/05/IMG_9251-1-1024x683.jpg" class="attachment-large size-large wp-post-image" alt="" srcset="http://hdosdemayo.gob.pe/portal/wp-content/uploads/2018/05/IMG_9251-1-1024x683.jpg 1024w, http://hdosdemayo.gob.pe/portal/wp-content/uploads/2018/05/IMG_9251-1-300x200.jpg 300w, http://hdosdemayo.gob.pe/portal/wp-content/uploads/2018/05/IMG_9251-1-768x512.jpg 768w, http://hdosdemayo.gob.pe/portal/wp-content/uploads/2018/05/IMG_9251-1-600x400.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" />				<span class="w-blog-post-preview-icon" style="padding-bottom: 66.6667%;"></span>
-			</div>
-		</a>
-		<div class="w-blog-post-body">
-			<h2 class="w-blog-post-title"style="font-size: 1.4em">
-				<a class="entry-title" rel="bookmark" href="http://hdosdemayo.gob.pe/portal/campana-de-evaluacion-tiroidea-en-el-dos-de-mayo/">CAMPAÑA DE EVALUACIÓN TIROIDEA EN EL DOS DE MAYO</a>
-			</h2>
-			<div class="w-blog-post-meta hidden">
-				<time class="w-blog-post-meta-date date updated hidden">24 mayo, 2018</time><span class="w-blog-post-meta-author vcard author hidden"><a href="http://hdosdemayo.gob.pe/portal/author/editor_1/" class="fn">Oficina de Comunicaciones</a></span>			</div>
-			<div class="w-blog-post-content">
-				<p>Conmemorándose la Semana Internacional de la Tiroides, el Servicio de Endocrinología del Hospital Nacional Dos de Mayo realiza una Campaña Gratuita de Evaluación Tiroidea que incluye TSH (Examen que mide la cantidad de la hormona estimulante de la tiroides), dirigido a familiares de personas con Hiper o Hipo Tiriodismo, en los ambientes del Programa de&#8230;</p>
-			</div>
-		</div>
-	</div>
-</article>
-
-</div></div><h3 style="font-size: 20px;color: #ffffff;line-height: 2;text-align: center" class="vc_custom_heading vc_custom_1517914286419">Casos Clí­nicos Relevantes</h3><div class="w-blog layout_classic cols_1" itemscope="itemscope" itemtype="https://schema.org/Blog"><div class="w-blog-list">
-
-<article class="w-blog-post casos-clinicos-relevantes post-12437 post type-post status-publish format-video hentry category-casos-clinicos-relevantes post_format-post-format-video" data-id="12437" data-categories="casos-clinicos-relevantes">
-	<div class="w-blog-post-h">
-		<div class="w-blog-post-preview">
-			<div class="w-video"><div class="w-video-h" style="padding-bottom: 66.6667%;"><span class="embed-youtube" style="text-align:center; display: block;"><iframe class='youtube-player' type='text/html' width='1500' height='874' src='http://www.youtube.com/embed/gtfaTeD9rt0?version=3&#038;rel=1&#038;fs=1&#038;autohide=2&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' allowfullscreen='true' style='border:0;'></iframe></span></div></div>			<span class="w-blog-post-preview-icon" style="padding-bottom: 66.6667%;"></span>
-		</div>
-		<div class="w-blog-post-body">
-			<h2 class="w-blog-post-title"style="font-size: 1.4em">
-				<a class="entry-title" rel="bookmark" href="http://hdosdemayo.gob.pe/portal/reportaje-a-mision-medica-americana-en-tvperu/">REPORTAJE A MISIÓN MÉDICA AMERICANA EN TVPERÚ</a>
-			</h2>
-			<div class="w-blog-post-meta hidden">
-				<time class="w-blog-post-meta-date date updated hidden">21 marzo, 2018</time><span class="w-blog-post-meta-author vcard author hidden"><a href="http://hdosdemayo.gob.pe/portal/author/editor_1/" class="fn">Oficina de Comunicaciones</a></span>			</div>
-			<div class="w-blog-post-content">
-				<p>Entrevista al Dr. Aldo Rafael, Cirujano Cardiovascular Peruano y Coordinador de la Misión Médica del Baylor University Medical Center, así como al Dr. Julio Peralta, Jefe del Dpto. de Cirugía de Tórax y Cardiovascular de nuestra institución, en el programa Marcando Agenda por TVPerú; en la cual nos explican sobre las operaciones gratuitas que esta&#8230;</p>
-			</div>
-		</div>
-	</div>
-</article>
-
-</div></div></div></div><div class="vc_col-sm-3 wpb_column vc_column_container"><div class="vc_column-inner"><h3 style="font-size: 20px;color: #ffffff;line-height: 2;text-align: center" class="vc_custom_heading titulo_home vc_custom_1488545623498">Artí­culo Diario</h3><div class="w-blog layout_classic cols_1 masonry" itemscope="itemscope" itemtype="https://schema.org/Blog"><div class="w-blog-list">
-
-<article class="w-blog-post articulo-diario post-13003 post type-post status-publish format-standard has-post-thumbnail hentry category-articulo-diario" data-id="13003" data-categories="articulo-diario">
-	<div class="w-blog-post-h">
-		<a href="http://hdosdemayo.gob.pe/portal/donacion-de-mobiliario-medico-para-nuestros-pacientes/">
-			<div class="w-blog-post-preview">
-				<img width="1024" height="683" src="http://hdosdemayo.gob.pe/portal/wp-content/uploads/2018/07/37208268_864099780448433_7344587611681325056_o-1024x683.jpg" class="attachment-large size-large wp-post-image" alt="" srcset="http://hdosdemayo.gob.pe/portal/wp-content/uploads/2018/07/37208268_864099780448433_7344587611681325056_o-1024x683.jpg 1024w, http://hdosdemayo.gob.pe/portal/wp-content/uploads/2018/07/37208268_864099780448433_7344587611681325056_o-300x200.jpg 300w, http://hdosdemayo.gob.pe/portal/wp-content/uploads/2018/07/37208268_864099780448433_7344587611681325056_o-768x512.jpg 768w, http://hdosdemayo.gob.pe/portal/wp-content/uploads/2018/07/37208268_864099780448433_7344587611681325056_o-600x400.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" />				<span class="w-blog-post-preview-icon" style="padding-bottom: 66.6667%;"></span>
-			</div>
-		</a>
-		<div class="w-blog-post-body">
-			<h2 class="w-blog-post-title"style="font-size: 1.4em">
-				<a class="entry-title" rel="bookmark" href="http://hdosdemayo.gob.pe/portal/donacion-de-mobiliario-medico-para-nuestros-pacientes/">DONACIÓN DE MOBILIARIO MÉDICO PARA NUESTROS PACIENTES</a>
-			</h2>
-			<div class="w-blog-post-meta hidden">
-				<time class="w-blog-post-meta-date date updated hidden">17 julio, 2018</time><span class="w-blog-post-meta-author vcard author hidden"><a href="http://hdosdemayo.gob.pe/portal/author/editor_1/" class="fn">Oficina de Comunicaciones</a></span>			</div>
-			<div class="w-blog-post-content">
-				<p>La Asociación VIDA PERÚ realizó la donación de 10 camillas y 10 camas hospitalarias, beneficiando así a los pacientes de los diferentes servicios de nuestra institución. Esta donación fue recepcionada por la Dra. Rosario Kiyohara Directora General del Hospital Nacional Dos de Mayo.</p>
-			</div>
-		</div>
-	</div>
-</article>
-
-</div></div><h3 style="font-size: 20px;color: #ffffff;line-height: 2;text-align: center" class="vc_custom_heading vc_custom_1526656417608">Infografías</h3><div class="w-blog layout_classic cols_1" itemscope="itemscope" itemtype="https://schema.org/Blog"><div class="w-blog-list">
-
-<article class="w-blog-post infografias post-12879 post type-post status-publish format-standard has-post-thumbnail hentry category-infografias" data-id="12879" data-categories="infografias">
-	<div class="w-blog-post-h">
-		<a href="http://hdosdemayo.gob.pe/portal/dia-del-no-fumador/">
-			<div class="w-blog-post-preview">
-				<img width="1024" height="768" src="http://hdosdemayo.gob.pe/portal/wp-content/uploads/2018/06/33943763_827203810804697_2203176729445400576_o-1024x768.jpg" class="attachment-large size-large wp-post-image" alt="" srcset="http://hdosdemayo.gob.pe/portal/wp-content/uploads/2018/06/33943763_827203810804697_2203176729445400576_o-1024x768.jpg 1024w, http://hdosdemayo.gob.pe/portal/wp-content/uploads/2018/06/33943763_827203810804697_2203176729445400576_o-300x225.jpg 300w, http://hdosdemayo.gob.pe/portal/wp-content/uploads/2018/06/33943763_827203810804697_2203176729445400576_o-768x576.jpg 768w, http://hdosdemayo.gob.pe/portal/wp-content/uploads/2018/06/33943763_827203810804697_2203176729445400576_o-600x450.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" />				<span class="w-blog-post-preview-icon" style="padding-bottom: 66.6667%;"></span>
-			</div>
-		</a>
-		<div class="w-blog-post-body">
-			<h2 class="w-blog-post-title"style="font-size: 1.4em">
-				<a class="entry-title" rel="bookmark" href="http://hdosdemayo.gob.pe/portal/dia-del-no-fumador/">DÍA DEL NO FUMADOR</a>
-			</h2>
-			<div class="w-blog-post-meta hidden">
-				<time class="w-blog-post-meta-date date updated hidden">1 junio, 2018</time><span class="w-blog-post-meta-author vcard author hidden"><a href="http://hdosdemayo.gob.pe/portal/author/editor_1/" class="fn">Oficina de Comunicaciones</a></span>			</div>
-			<div class="w-blog-post-content">
-				<p>Con motivo del Día del No Fumador a celebrarse el 31 de mayo, sepa las principales diferencias entre un fumador y una persona saludable.</p>
-			</div>
-			<a class="w-blog-post-more w-btn" href="http://hdosdemayo.gob.pe/portal/dia-del-no-fumador/"><span class="w-btn-label">Leer Más</span></a>
-		</div>
-	</div>
-</article>
-
-</div></div></div></div><div class="vc_col-sm-3 wpb_column vc_column_container"><div class="vc_column-inner"><h3 style="font-size: 20px;color: #ffffff;line-height: 2;text-align: center" class="vc_custom_heading vc_custom_1488545597475">Noticias Institucionales</h3><div class="w-blog layout_classic cols_1" itemscope="itemscope" itemtype="https://schema.org/Blog"><div class="w-blog-list">
-
-<article class="w-blog-post noticias-institucionales post-12981 post type-post status-publish format-standard has-post-thumbnail hentry category-noticias-institucionales" data-id="12981" data-categories="noticias-institucionales">
-	<div class="w-blog-post-h">
-		<a href="http://hdosdemayo.gob.pe/portal/equipo-para-realizar-aferesis-terapeutica/">
-			<div class="w-blog-post-preview">
-				<img width="1024" height="682" src="http://hdosdemayo.gob.pe/portal/wp-content/uploads/2018/07/WhatsApp-Image-2018-07-06-at-1.07.59-PM-1024x682.jpeg" class="attachment-large size-large wp-post-image" alt="" srcset="http://hdosdemayo.gob.pe/portal/wp-content/uploads/2018/07/WhatsApp-Image-2018-07-06-at-1.07.59-PM-1024x682.jpeg 1024w, http://hdosdemayo.gob.pe/portal/wp-content/uploads/2018/07/WhatsApp-Image-2018-07-06-at-1.07.59-PM-300x200.jpeg 300w, http://hdosdemayo.gob.pe/portal/wp-content/uploads/2018/07/WhatsApp-Image-2018-07-06-at-1.07.59-PM-768x512.jpeg 768w, http://hdosdemayo.gob.pe/portal/wp-content/uploads/2018/07/WhatsApp-Image-2018-07-06-at-1.07.59-PM-600x400.jpeg 600w, http://hdosdemayo.gob.pe/portal/wp-content/uploads/2018/07/WhatsApp-Image-2018-07-06-at-1.07.59-PM.jpeg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" />				<span class="w-blog-post-preview-icon" style="padding-bottom: 66.6667%;"></span>
-			</div>
-		</a>
-		<div class="w-blog-post-body">
-			<h2 class="w-blog-post-title"style="font-size: 1.4em">
-				<a class="entry-title" rel="bookmark" href="http://hdosdemayo.gob.pe/portal/equipo-para-realizar-aferesis-terapeutica/">EQUIPO PARA REALIZAR AFÉRESIS TERAPEÚTICA</a>
-			</h2>
-			<div class="w-blog-post-meta hidden">
-				<time class="w-blog-post-meta-date date updated hidden">10 julio, 2018</time><span class="w-blog-post-meta-author vcard author hidden"><a href="http://hdosdemayo.gob.pe/portal/author/editor_1/" class="fn">Oficina de Comunicaciones</a></span>			</div>
-			<div class="w-blog-post-content">
-				<p>El Departamento de Banco de Sangre y Hemoterapia del Hospital Nacional Dos de Mayo cuenta ahora con un equipo más para realizar el procedimiento de Aféresis Terapeútica (plasmaféresis, eritrocitaféresis, leucocitaféresis, trombocitaféresis, colecta de doble concentrado de hematíes y plaquetaféresis) método por el cual se extrae completamente la sangre del cuerpo y se procesa de forma que los&#8230;</p>
-			</div>
-		</div>
-	</div>
-</article>
-			<article class="l-section for_blogpost preview_basic post-12829 post type-post status-publish format-standard has-post-thumbnail hentry category-campanas tag-tiroides">
-	<div class="l-section-h i-cf">
-		<div class="w-blog">
-							<div class="w-blog-post-preview">
-					<img width="1024" height="683" src="http://hdosdemayo.gob.pe/portal/wp-content/uploads/2018/05/IMG_9251-1-1024x683.jpg" class="attachment-large size-large" alt="" srcset="http://hdosdemayo.gob.pe/portal/wp-content/uploads/2018/05/IMG_9251-1-1024x683.jpg 1024w, http://hdosdemayo.gob.pe/portal/wp-content/uploads/2018/05/IMG_9251-1-300x200.jpg 300w, http://hdosdemayo.gob.pe/portal/wp-content/uploads/2018/05/IMG_9251-1-768x512.jpg 768w, http://hdosdemayo.gob.pe/portal/wp-content/uploads/2018/05/IMG_9251-1-600x400.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" />				</div>
-						<div class="w-blog-post-body">
-				<h1 class="w-blog-post-title entry-title" itemprop="headline">CAMPAÑA DE EVALUACIÓN TIROIDEA EN EL DOS DE MAYO</h1>
-
-				<div class="w-blog-post-meta">
-					<time class="w-blog-post-meta-date date updated" itemprop="datePublished">24 mayo, 2018</time><span class="w-blog-post-meta-author vcard author"><a href="http://hdosdemayo.gob.pe/portal/author/editor_1/" class="fn">Oficina de Comunicaciones</a></span><span class="w-blog-post-meta-category"><a href="http://hdosdemayo.gob.pe/portal/category/campanas/" rel="category tag">Campañas</a></span><span class="w-blog-post-meta-comments"><a href="http://hdosdemayo.gob.pe/portal/campana-de-evaluacion-tiroidea-en-el-dos-de-mayo/#respond">No hay comentarios</a></span>				</div>
-			</div>
-		</div>
-
-			</div>
-</article>
-<section class="l-section"><div class="l-section-h i-cf" itemprop="text"><p>Conmemorándose la Semana Internacional de la Tiroides, el Servicio de Endocrinología del Hospital Nacional Dos de Mayo realiza una Campaña Gratuita de Evaluación Tiroidea que incluye TSH (Examen que mide la cantidad de la hormona estimulante de la tiroides), dirigido a familiares de personas con Hiper o Hipo Tiriodismo, en los ambientes del Programa de Diabetes de la institución.</p>
-<div class="w-gallery layout_default cols_3 with_indents style_simple link_media"><div class="w-gallery-list"><a class="w-gallery-item order_1" href="http://hdosdemayo.gob.pe/portal/wp-content/uploads/2018/05/IMG_9236.jpg" title="IMG_9236"><div class="w-gallery-item-img"><img width="600" height="600" src="http://hdosdemayo.gob.pe/portal/wp-content/uploads/2018/05/IMG_9236-600x600.jpg" class="attachment-tnail-1x1 size-tnail-1x1" alt="" srcset="http://hdosdemayo.gob.pe/portal/wp-content/uploads/2018/05/IMG_9236-600x600.jpg 600w, http://hdosdemayo.gob.pe/portal/wp-content/uploads/2018/05/IMG_9236-150x150.jpg 150w, http://hdosdemayo.gob.pe/portal/wp-content/uploads/2018/05/IMG_9236-350x350.jpg 350w" sizes="(max-width: 600px) 100vw, 600px" /></div></a><a class="w-gallery-item order_2" href="http://hdosdemayo.gob.pe/portal/wp-content/uploads/2018/05/IMG_9240-1.jpg" title="IMG_9240"><div class="w-gallery-item-img"><img width="600" height="600" src="http://hdosdemayo.gob.pe/portal/wp-content/uploads/2018/05/IMG_9240-1-600x600.jpg" class="attachment-tnail-1x1 size-tnail-1x1" alt="" srcset="http://hdosdemayo.gob.pe/portal/wp-content/uploads/2018/05/IMG_9240-1-600x600.jpg 600w, http://hdosdemayo.gob.pe/portal/wp-content/uploads/2018/05/IMG_9240-1-150x150.jpg 150w, http://hdosdemayo.gob.pe/portal/wp-content/uploads/2018/05/IMG_9240-1-350x350.jpg 350w" sizes="(max-width: 600px) 100vw, 600px" /></div></a><a class="w-gallery-item order_3" href="http://hdosdemayo.gob.pe/portal/wp-content/uploads/2018/05/IMG_9237.jpg" title="IMG_9237"><div class="w-gallery-item-img"><img width="600" height="600" src="http://hdosdemayo.gob.pe/portal/wp-content/uploads/2018/05/IMG_9237-600x600.jpg" class="attachment-tnail-1x1 size-tnail-1x1" alt="" srcset="http://hdosdemayo.gob.pe/portal/wp-content/uploads/2018/05/IMG_9237-600x600.jpg 600w, http://hdosdemayo.gob.pe/portal/wp-content/uploads/2018/05/IMG_9237-150x150.jpg 150w, http://hdosdemayo.gob.pe/portal/wp-content/uploads/2018/05/IMG_9237-350x350.jpg 350w" sizes="(max-width: 600px) 100vw, 600px" /></div></a><a class="w-gallery-item order_4" href="http://hdosdemayo.gob.pe/portal/wp-content/uploads/2018/05/IMG_9242.jpg" title="IMG_9242"><div class="w-gallery-item-img"><img width="600" height="600" src="http://hdosdemayo.gob.pe/portal/wp-content/uploads/2018/05/IMG_9242-600x600.jpg" class="attachment-tnail-1x1 size-tnail-1x1" alt="" srcset="http://hdosdemayo.gob.pe/portal/wp-content/uploads/2018/05/IMG_9242-600x600.jpg 600w, http://hdosdemayo.gob.pe/portal/wp-content/uploads/2018/05/IMG_9242-150x150.jpg 150w, http://hdosdemayo.gob.pe/portal/wp-content/uploads/2018/05/IMG_9242-350x350.jpg 350w" sizes="(max-width: 600px) 100vw, 600px" /></div></a><a class="w-gallery-item order_5" href="http://hdosdemayo.gob.pe/portal/wp-content/uploads/2018/05/IMG_9238-1.jpg" title="IMG_9238"><div class="w-gallery-item-img"><img width="600" height="600" src="http://hdosdemayo.gob.pe/portal/wp-content/uploads/2018/05/IMG_9238-1-600x600.jpg" class="attachment-tnail-1x1 size-tnail-1x1" alt="" srcset="http://hdosdemayo.gob.pe/portal/wp-content/uploads/2018/05/IMG_9238-1-600x600.jpg 600w, http://hdosdemayo.gob.pe/portal/wp-content/uploads/2018/05/IMG_9238-1-150x150.jpg 150w, http://hdosdemayo.gob.pe/portal/wp-content/uploads/2018/05/IMG_9238-1-350x350.jpg 350w" sizes="(max-width: 600px) 100vw, 600px" /></div></a><a class="w-gallery-item order_6" href="http://hdosdemayo.gob.pe/portal/wp-content/uploads/2018/05/IMG_9248.jpg" title="IMG_9248"><div class="w-gallery-item-img"><img width="600" height="600" src="http://hdosdemayo.gob.pe/portal/wp-content/uploads/2018/05/IMG_9248-600x600.jpg" class="attachment-tnail-1x1 size-tnail-1x1" alt="" srcset="http://hdosdemayo.gob.pe/portal/wp-content/uploads/2018/05/IMG_9248-600x600.jpg 600w, http://hdosdemayo.gob.pe/portal/wp-content/uploads/2018/05/IMG_9248-150x150.jpg 150w, http://hdosdemayo.gob.pe/portal/wp-content/uploads/2018/05/IMG_9248-350x350.jpg 350w" sizes="(max-width: 600px) 100vw, 600px" /></div></a></div></div>
-
-<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Compártelo:</h3><div class="sd-content"><ul><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-12829" class="share-facebook sd-button share-icon" href="http://hdosdemayo.gob.pe/portal/campana-de-evaluacion-tiroidea-en-el-dos-de-mayo/?share=facebook" target="_blank" title="Haz clic para compartir en Facebook"><span>Facebook</span></a></li><li class="share-end"></li></ul></div></div></div></div>
-</section>
-
-	<section class="l-section for_tags">
-		<div class="l-section-h i-cf">
-			<div class="g-tags">
-				<span class="g-tags-title">Etiquetas:</span>
-				<a href="http://hdosdemayo.gob.pe/portal/tag/tiroides/" rel="tag">Tiroides</a>			</div>
-		</div>
-	</section>
-</div></div>
-</div></div>
-<div class="vc_col-sm-3 wpb_column vc_column_container">
-	<div class="vc_column-inner">
-		<div class="w-image ">
-			<a href="http://hdosdemayo.gob.pe/portal/ley-de-transparencia-y-acceso-a-la-informacion-publica/" title="Libro de Reclamaciones" target="_blank" rel="">
-				<img width="800" height="399" src="http://hdosdemayo.gob.pe/portal/wp-content/uploads/2013/05/ley_de_transparencia.jpg" class="attachment-large size-large" alt="" srcset="http://hdosdemayo.gob.pe/portal/wp-content/uploads/2013/05/ley_de_transparencia.jpg 800w, http://hdosdemayo.gob.pe/portal/wp-content/uploads/2013/05/ley_de_transparencia-300x150.jpg 300w, http://hdosdemayo.gob.pe/portal/wp-content/uploads/2013/05/ley_de_transparencia-768x383.jpg 768w, http://hdosdemayo.gob.pe/portal/wp-content/uploads/2013/05/ley_de_transparencia-600x299.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" />
-			</a>
-		</div>
-		<div class="w-image ">
-			<a href="http://hdosdemayo.gob.pe/__lr_2017/libro_de_reclamaciones.php" title="Libro de Reclamaciones" target="_blank" rel="">
-				<img width="800" height="399" src="http://hdosdemayo.gob.pe/portal/wp-content/uploads/2013/05/reclamacines.jpg" class="attachment-large size-large" alt="" srcset="http://hdosdemayo.gob.pe/portal/wp-content/uploads/2013/05/reclamacines.jpg 800w, http://hdosdemayo.gob.pe/portal/wp-content/uploads/2013/05/reclamacines-300x150.jpg 300w, http://hdosdemayo.gob.pe/portal/wp-content/uploads/2013/05/reclamacines-768x383.jpg 768w, http://hdosdemayo.gob.pe/portal/wp-content/uploads/2013/05/reclamacines-600x299.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" />
-			</a>
-		</div>
-		<h2 style="text-align: center" class="vc_custom_heading">
-			<a href="http://hdosdemayo.gob.pe/portal/concurso_cas_n001_2017/" target=" _blank">PROCESO DE SELECCION CAS Nº 001-2017-HNDM
-			</a>
-		</h2>
-		<h2 style="text-align: center" class="vc_custom_heading">
-			<a href="http://hdosdemayo.gob.pe/portal/concurso-abierto/" target=" _blank">CONCURSO ABIERTO 2017 HNDM
-			</a>
-		</h2>
-		<h2 style="text-align: center" class="vc_custom_heading">
-			<a href="http://hdosdemayo.gob.pe/portal/prueba/" target=" _blank">GIANCARLITOS FUE KCHUDO X 4TA VEZ 
-			</a>
-		</h2>
-		<div class="wpb_text_column ">
-			<div class="wpb_wrapper">
-				<p></p>
-			</div> 
-		</div> 
 	</div>
 </div>
-</div>
-</div>
-</section>
-
-<div class="l-main">
-	<div class="l-main-h i-cf">
-
-		<main class="l-content" itemprop="mainContentOfPage">
-
-			
 
 
-<section class="l-secthut wpb_row height_small color_custom with_overlay" style="background-color: #85a3fc; color: #00010a;margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;"><div class="l-section-overlay" ></div><div class="l-section-h i-cf"><div class="g-cols offset_medium valign_top"><div class="vc_col-sm-4 wpb_column vc_column_container"><div class="vc_column-inner"><div class="wpb_text_column "><div class="wpb_wrapper"></div> </div> </div></div><div class="vc_col-sm-4 wpb_column vc_column_container"><div class="vc_column-inner"><div class="w-form for_cform align_left" id="us_form_1">
-	<form class="w-form-h" autocomplete="off" action="http://hdosdemayo.gob.pe/portal/portal/" method="post">
-							<div class="w-form-row for_name required">
-	<div class="w-form-row-label">
-		<label for="us_form_1_name"></label>
-	</div>
-	<div class="w-form-row-field">
-				<input type="text" name="name" id="us_form_1_name" value=""
-		       placeholder="Nombre *" data-required="true" aria-required="true"/>
-		<span class="w-form-row-field-bar"></span>
-			</div>
-	<div class="w-form-row-state"></div>
-	</div>
-					<div class="w-form-row for_email required">
-	<div class="w-form-row-label">
-		<label for="us_form_1_email"></label>
-	</div>
-	<div class="w-form-row-field">
-				<input type="email" name="email" id="us_form_1_email" value=""
-		       placeholder="Correo electrónico *" data-required="true" aria-required="true"/>
-		<span class="w-form-row-field-bar"></span>
-			</div>
-	<div class="w-form-row-state"></div>
-	</div>
-					<div class="w-form-row for_phone required">
-	<div class="w-form-row-label">
-		<label for="us_form_1_phone"></label>
-	</div>
-	<div class="w-form-row-field">
-				<input type="text" name="phone" id="us_form_1_phone" value=""
-		       placeholder="Número de teléfono *" data-required="true" aria-required="true"/>
-		<span class="w-form-row-field-bar"></span>
-			</div>
-	<div class="w-form-row-state"></div>
-	</div>
-					<div class="w-form-row for_message required">
-	<div class="w-form-row-label">
-		<label for="us_form_1_message"></label>
-	</div>
-	<div class="w-form-row-field">
-				<textarea name="message" id="us_form_1_message" cols="30" rows="10" placeholder="Mensaje *"
-			 data-required="true" aria-required="true"></textarea>
-		<span class="w-form-row-field-bar"></span>
-			</div>
-	<div class="w-form-row-state"></div>
-	</div>
-					<input type="hidden" name="action" value="us_ajax_cform"/>
-					<input type="hidden" name="post_id" value="8"/>
-					<input type="hidden" name="form_index" value="1"/>
-					<div class="w-form-row for_submit">
-	<div class="w-form-row-field">
-		<button class="w-btn size_15px color_primary style_solid" type="submit"><span class="g-preloader type_1"></span><span class="w-btn-label">Enviar mensaje</span></button>
-	</div>
-</div>
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- /FINAL -->
+
+
+
+
 				<div class="w-form-message"></div>
 			</form>
 			<div class="w-form-json hidden" onclick='return {&quot;ajaxurl&quot;:&quot;http:\/\/hdosdemayo.gob.pe\/portal\/wp-admin\/admin-ajax.php&quot;,&quot;success&quot;:&quot;\u00a1Gracias! Tu mensaje ha sido enviado correctamente.&quot;,&quot;errors&quot;:{&quot;name&quot;:&quot;Por favor, introduce tu nombre&quot;,&quot;email&quot;:&quot;Por favor, introduce tu direcci\u00f3n de correo electr\u00f3nico&quot;,&quot;phone&quot;:&quot;Por favor, introduce tu n\u00famero de tel\u00e9fono&quot;,&quot;message&quot;:&quot;Por favor, introduce un mensaje&quot;}}'></div>

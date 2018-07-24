@@ -396,25 +396,6 @@ jsFileLocation:"//hdosdemayo.gob.pe/portal/wp-content/plugins/revslider/public/a
 
 </div></div></div></div><div class="vc_col-sm-3 wpb_column vc_column_container"><div class="vc_column-inner"><h3 style="font-size: 20px;color: #ffffff;line-height: 2;text-align: center" class="vc_custom_heading titulo_home vc_custom_1488545623498">Contacto 2</h3><div class="w-blog layout_classic cols_1 masonry" itemscope="itemscope" itemtype="https://schema.org/Blog"><div class="w-blog-list">
 
-<!--<article class="w-blog-post articulo-diario post-13003 post type-post status-publish format-standard has-post-thumbnail hentry category-articulo-diario" data-id="13003" data-categories="articulo-diario">
-	<div class="w-blog-post-h">
-		<a href="http://hdosdemayo.gob.pe/portal/donacion-de-mobiliario-medico-para-nuestros-pacientes/">
-			<div class="w-blog-post-preview">
-				<img width="1024" height="683" src="http://hdosdemayo.gob.pe/portal/wp-content/uploads/2018/07/37208268_864099780448433_7344587611681325056_o-1024x683.jpg" class="attachment-large size-large wp-post-image" alt="" srcset="http://hdosdemayo.gob.pe/portal/wp-content/uploads/2018/07/37208268_864099780448433_7344587611681325056_o-1024x683.jpg 1024w, http://hdosdemayo.gob.pe/portal/wp-content/uploads/2018/07/37208268_864099780448433_7344587611681325056_o-300x200.jpg 300w, http://hdosdemayo.gob.pe/portal/wp-content/uploads/2018/07/37208268_864099780448433_7344587611681325056_o-768x512.jpg 768w, http://hdosdemayo.gob.pe/portal/wp-content/uploads/2018/07/37208268_864099780448433_7344587611681325056_o-600x400.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" />				<span class="w-blog-post-preview-icon" style="padding-bottom: 66.6667%;"></span>
-			</div>
-		</a>
-		<div class="w-blog-post-body">
-			<h2 class="w-blog-post-title"style="font-size: 1.4em">
-				<a class="entry-title" rel="bookmark" href="http://hdosdemayo.gob.pe/portal/donacion-de-mobiliario-medico-para-nuestros-pacientes/">DONACIÓN DE MOBILIARIO MÉDICO PARA NUESTROS PACIENTES</a>
-			</h2>
-			<div class="w-blog-post-meta hidden">
-				<time class="w-blog-post-meta-date date updated hidden">17 julio, 2018</time><span class="w-blog-post-meta-author vcard author hidden"><a href="http://hdosdemayo.gob.pe/portal/author/editor_1/" class="fn">Oficina de Comunicaciones</a></span>			</div>
-			<div class="w-blog-post-content">
-				<p>La Asociación VIDA PERÚ realizó la donación de 10 camillas y 10 camas hospitalarias, beneficiando así a los pacientes de los diferentes servicios de nuestra institución. Esta donación fue recepcionada por la Dra. Rosario Kiyohara Directora General del Hospital Nacional Dos de Mayo.</p>
-			</div>
-		</div>
-	</div>
-</article>-->
 
 
 </div></div></div></div><div class="vc_col-sm-3 wpb_column vc_column_container"><div class="vc_column-inner"><h3 style="font-size: 20px;color: #ffffff;line-height: 2;text-align: center" class="vc_custom_heading vc_custom_1488545597475">Contacto 3</h3><div class="w-blog layout_classic cols_1" itemscope="itemscope" itemtype="https://schema.org/Blog"><div class="w-blog-list">

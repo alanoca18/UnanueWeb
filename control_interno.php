@@ -337,9 +337,10 @@ jsFileLocation:"//hdosdemayo.gob.pe/portal/wp-content/plugins/revslider/public/a
 <li>
 <h3><a style="cursor: pointer; text-decoration: none;" href="http://www.hospitaltacna.gob.pe/?page_id=4094">PACK ANTICORRUPCIÓN 2016</a></h3>
 </li>
-<li><a href="http://www.hospitaltacna.gob.pe/wp-content/uploads/2017/04/RC-149-2016-CG-Aprueba-Directiva-013-2016-CG-PROD-Implementación-del-SCI.pdf" target="_blank" rel="noopener noreferrer">RESOLUCION Nº 149-2016-CG. Aprueba Directiva para la Implementacion del Sistema.</a></li>
-<li><a href="http://www.hospitaltacna.gob.pe/wp-content/uploads/2017/04/RCG004_2017_Guia_implemen_SCI.pdf" target="_blank" rel="noopener noreferrer">RESOLUCION Nº 004-2017-CG. Aprueba la Guia para la Implementacion y Fortalecimiento.</a></li>
-<li><a href="http://www.hospitaltacna.gob.pe/wp-content/uploads/2017/04/anexo-n.º2-Formato-para-la-Publicación-de-Recomendaciones-del-Informe-de-Auditoria-Orientadas-a-Mejorar-la-Gestión-de-la-1.pdf" target="_blank" rel="noopener noreferrer">ANEXO Nº2 Formato para la publicacion de recomendaciones del informe de </a><a href="http://www.hospitaltacna.gob.pe/wp-content/uploads/2017/04/anexo-n.º2-Formato-para-la-Publicación-de-Recomendaciones-del-Informe-de-Auditoria-Orientadas-a-Mejorar-la-Gestión-de-la-1.pdf" target="_blank" rel="noopener noreferrer">auditoria</a></li>
+<li><h3><a href="http://www.hospitaltacna.gob.pe/wp-content/uploads/2017/04/RC-149-2016-CG-Aprueba-Directiva-013-2016-CG-PROD-Implementación-del-SCI.pdf" target="_blank" rel="noopener noreferrer">RESOLUCION Nº 149-2016-CG. Aprueba Directiva para la Implementacion del Sistema.</a></h3></li>
+<li><h3><a href="http://www.hospitaltacna.gob.pe/wp-content/uploads/2017/04/anexo-n.º2-Formato-para-la-Publicación-de-Recomendaciones-del-Informe-de-Auditoria-Orientadas-a-Mejorar-la-Gestión-de-la-1.pdf" target="_blank" rel="noopener noreferrer">ANEXO Nº2 Formato para la publicacion de recomendaciones del informe de </a></h3></li>
+<li><h3>
+<a href="http://www.hospitaltacna.gob.pe/wp-content/uploads/2017/04/anexo-n.º2-Formato-para-la-Publicación-de-Recomendaciones-del-Informe-de-Auditoria-Orientadas-a-Mejorar-la-Gestión-de-la-1.pdf" target="_blank" rel="noopener noreferrer">Auditoria</a></h3></li>
 </ul>
 <br>
 
